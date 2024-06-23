@@ -70,7 +70,7 @@ const Navbar = ({ handleOrderPopup }) => {
                 </li>
                 <li className="py-4">
                   <NavLink to="/best-places" activeClassName="active">
-                    Best Places
+                    Packages
                   </NavLink>
                 </li>
                 <li className="py-4">
