@@ -1,5 +1,4 @@
 import React from "react";
-import BlogsComp from "../components/Blogs/BlogsComp";
 import Location from "../components/Location/Location";
 
 const About = () => {
@@ -33,7 +32,6 @@ const About = () => {
         </div>
       </div>
       <Location />
-      <BlogsComp />
     </>
   );
 };
